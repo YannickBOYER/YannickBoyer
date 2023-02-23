@@ -12,7 +12,9 @@
 
 ### 👨‍💻 About Me :
 
-- I'm a 19 years old computer science student who lives in France.
+- I'm a 20 years old computer science student who lives in France.
+- Two-year University Diploma in Computer Science (IUT Clermont-Ferrand, France and UQAC - Chicoutimi, Canada)
+- Currently in Professional Bachelor's Diploma as an Systems and Networks Administrator (IUT Roanne, France)
 
 
 ---
