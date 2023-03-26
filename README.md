@@ -22,7 +22,7 @@
  ### :100: My Stats :
 
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Yannick2510&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=YannickBOYER&show_icons=true&theme=radical" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
  ### :information_source: Most Used Languages :
 
 <div align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannick2510&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannickBOYER&theme=radical&layout=compact" />
 </div> 
 
 ---
@@ -38,5 +38,5 @@
  ### :fire: Streaks :
 
 <div align="center">
- <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=Yannick2510&theme=dark&theme=radical" />
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=YannickBOYER&theme=dark&theme=radical" />
 </div>
