@@ -12,9 +12,10 @@
 
 ### 👨‍💻 About Me :
 
-- I'm a 20 year old French computer science student.
+- I'm a 21 year old French computer science student.
 - Two-year University Diploma in Computer Science (IUT Clermont-Ferrand, France and UQAC - Chicoutimi, Canada)
-- Currently learning in Professional Bachelor's Diploma as an Systems and Networks Administrator (IUT Roanne, France)
+- Professional Bachelor's Diploma as a Systems and Networks Administrator (IUT Roanne, France)
+- I'm currently studying for a Master's degree in Software Architecture (ESGI Lyon, France)
 
 
 ---
