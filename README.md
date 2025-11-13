@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me :
 
-- I'm a 21 year old French computer science student.
+- I'm a 23 year old French DevOps Engineer.
 - Two-year University Diploma in Computer Science (IUT Clermont-Ferrand, France and UQAC - Chicoutimi, Canada)
 - Professional Bachelor's Diploma as a Systems and Networks Administrator (IUT Roanne, France)
-- I'm currently studying for a Master's degree in Software Architecture (ESGI Lyon, France)
-
+- Master's degree in Software Architecture (ESGI Lyon, France)
+- Now working as a DevOps Engineer
 
 ---
 
