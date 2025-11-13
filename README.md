@@ -1,6 +1,6 @@
 <div id="header" align="center" >
 
-  <h2>Yannick BOYER<br>French Computer Science Student</h2>
+  <h2>Yannick BOYER<br>French DevOps Engineer</h2>
   <div>
     <a href="https://www.linkedin.com/in/yannick-boyer-a06229171/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
